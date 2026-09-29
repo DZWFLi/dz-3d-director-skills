@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/
+.blender/
+*.blend
+*.blend1
+.env
+.env.*

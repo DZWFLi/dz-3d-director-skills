@@ -1,0 +1,11 @@
+{
+  "subject": "neutral geometric block",
+  "purpose": "product-style motion reference",
+  "lens_mm": 30,
+  "fps": 24,
+  "frames": 24,
+  "camera_motion": "push-in with a gentle orbit",
+  "subject_motion": "static",
+  "physical_contact": false,
+  "outputs": ["scene.blend", "scene.glb", "preview frames", "optional MP4"]
+}
